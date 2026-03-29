@@ -13,3 +13,17 @@ Este script:
 - ✅ Funciona em Chrome, Edge e celulares
 - ✅ Não depende de API paga
 - ✅ Ideal para páginas estáticas e notícias
+
+♿ ##Benefícios de Acessibilidade (Muito Importante)
+
+Esse recurso ajuda:
+
+👨‍🦯 Pessoas com deficiência visual
+👴 Idosos
+📱 Usuários móveis
+📚 Pessoas com dislexia
+🚗 Usuários ouvindo conteúdo em deslocamento
+
+Inclusive melhora a conformidade com:
+
+📜 ##WCAG 2.1 — Diretrizes de Acessibilidade
