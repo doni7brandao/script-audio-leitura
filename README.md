@@ -7,9 +7,9 @@ A melhor abordagem nesse caso é usar a API nativa de voz do navegador (Speech S
 
 Este script:
 
-✅ Lê o conteúdo da página
-✅ Permite Play / Pause / Parar
-✅ Permite escolher voz em português
-✅ Funciona em Chrome, Edge e celulares
-✅ Não depende de API paga
-✅ Ideal para páginas estáticas e notícias
+- ✅ Lê o conteúdo da página
+- ✅ Permite Play / Pause / Parar
+- ✅ Permite escolher voz em português
+- ✅ Funciona em Chrome, Edge e celulares
+- ✅ Não depende de API paga
+- ✅ Ideal para páginas estáticas e notícias
